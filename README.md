@@ -23,4 +23,5 @@ To use it as is, just type one of the following queries:
  * colleague(john, bob)
  * boss(john, bob)
  * expert(bob)
+ * boss(X,bob). 
 

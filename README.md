@@ -3,11 +3,11 @@
 #####Frédéric Moung, Department of Computing Paris Descartes University
 **Abstract:** I describe an application of Abductive Logic Programming (ALP) to the analysis of the relationship between members of a professional social network. This project develops an ALP theory that provides a simple and general model of interactions and relations based on properties of the members.
 
-***Introduction***
+1. Introduction
 
 Business oriented social networks are used by almost everybody who has a professional life. Students or full professional can use it to make business relations, get or stay in touch with colleagues or former colleagues. This kind of network is also used to know or present skills or company hierarchy.
 
-***Model***
+2. Model
 
 Following the relationships with the predicates:
 • **colleague** • **comrade** • **boss**

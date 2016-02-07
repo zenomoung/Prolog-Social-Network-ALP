@@ -20,7 +20,7 @@ There are still a lot to do, for instance add the skills and the jobs or roles i
 4. ***How to use***  
 Some facts have been added, you can change those.
 To use it as is, just type one of the following queries:
-- colleague(john, bob).
-- boss(john, bob).
-- expert(bob).
+-colleague(john, bob)
+-boss(john, bob)
+-expert(bob)
 
